@@ -11,9 +11,17 @@ Data | Versão | Descrição | Autor(es)
 ---- | ----------- | ------ | ---------
 10/04/2023 | 1.0 | Adicionando tópicos| [@dansousamelo](http://github.com/dansousamelo)|
 11/04/2023 | 1.1 | Adicionando tópico 3| [@dansousamelo](http://github.com/dansousamelo)|
+12/04/2023 | 1.2 |Adicionando tópico 1| [@malu214](http://github.com/marialuisa214)
 
 
 ## 1. Site não responsivo
+<p align="justify">Com mais pessoas usando smartphones e tablets para tarefas que antes eram possíveis apenas no desktop, é cada vez mais importante criar um site que funcione em várias plataformas e atenda às necessidades e requisitos dos clientes.</p>
+
+<p align="justify">Neste cenário, o <em>site responsivo</em> é um método de projetar e codificar um site de forma que ele forneça uma experiência de visualização privilegiada em uma ampla gama de dispositivos, de telefones celulares a computadores desktop.</p>
+
+<p align="justify">Portanto ao aplicar no site a <i>responsividade</i> a partir do  <i>front-end</i>, pode-se facilitar a inclusão de ferramentas de acessibilidade para os usuários, facilitando a navegação em telas de diferentes tamanhos.</p>
+
+
 ## 2. Features Incompletas
 
 ## 3. Alta dependência de um backend real
@@ -38,6 +46,10 @@ Ex: Não existe página 404, 500, por exemplo, toast e etc.
 
 ## Referencial teórico
 
+* MARCOTTE, Ethan. Responsive Web Desing. New York: A Book Apart, 2011.
+
 * Mesquita, V.; Alencar, F. M.; Cavalcanti, Y. (2016). Testes unitários em aplicações web utilizando mocks. Revista de Informática Teórica e Aplicada, 23(2), 37-51.
 
 * Freeman, S.; Robson, E. (2016). Head First JavaScript Programming: A Brain-Friendly Guide. O'Reilly Media.
+
+* ZEMEL, Tárcio. Web Design Responsivo: páginas adaptáveis para todos os dispositivos. São Paulo: Casado Código, 2013.
