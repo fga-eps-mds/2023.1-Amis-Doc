@@ -12,6 +12,7 @@ Data | Versão | Descrição | Autor(es)
 10/04/2023 | 1.0 | Adicionando tópicos| [@dansousamelo](http://github.com/dansousamelo)|
 11/04/2023 | 1.1 | Adicionando tópico 3| [@dansousamelo](http://github.com/dansousamelo)|
 12/04/2023 | 1.2 |Adicionando tópico 1| [@malu214](http://github.com/marialuisa214)
+12/04/2023 | 1.3 |Adicionando tópico 2| [@gaubiela](https://github.com/gaubiela)
 
 
 ## 1. Site não responsivo
@@ -23,6 +24,16 @@ Data | Versão | Descrição | Autor(es)
 
 
 ## 2. Features Incompletas
+<p align="justify">Uma feature incompleta é um termo utilizado no desenvolvimento de software para descrever uma funcionalidade que não está totalmente implementada ou que não atende completamente às necessidades do usuário final. Isso pode ocorrer por uma série de motivos, como falta de tempo, recursos ou compreensão inadequada dos requisitos do usuário..</p>
+
+<p align="justify">No projeto front-end atual é possível identificar features incompletas problemáticas, que levam o software a não atender as expectativas do usuário. Além disso, dificulta o desenvolvimento de outras partes do software que dependem dela para funcionar.</p>
+
+<p align="justify">Um exemplo de feature incompleta é a funcionalidade que permite ao usuário a recuperação de sua senha pessoal, que é representada no front-end, mas não possui funcinalidade alguma implementada. Segue imagem ilustrativa que indica o local sem a funcionalidade implementada.</p>
+
+<div width="100%" display = "flex" align="center">
+<img src="./assets/pain-points/imagem_indicativa_featureincompleta1.jpg" width="450">
+</div>
+
 
 ## 3. Alta dependência de um backend real
 
