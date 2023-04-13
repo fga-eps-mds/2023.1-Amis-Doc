@@ -13,6 +13,8 @@ Data | Versão | Descrição | Autor(es)
 11/04/2023 | 1.1 | Adicionando tópico 3| [@dansousamelo](http://github.com/dansousamelo)|
 12/04/2023 | 1.2 |Adicionando tópico 1| [@malu214](http://github.com/marialuisa214)
 12/04/2023 | 1.3 |Adicionando tópico 2| [@gaubiela](https://github.com/gaubiela)
+12/04/2023 | 1.2 |Adicionando tópico 7| [@malu214](http://github.com/marialuisa214)
+
 
 
 ## 1. Site não responsivo
@@ -54,6 +56,15 @@ Ex: Não existe página 404, 500, por exemplo, toast e etc.
 ## 6. Guia de estilo
 
 ## 7. Má gerência em gerenciar usuários logados
+<p>Na autenticação por <i>token</i>, o usuário insere login e senha na plataforma, o que gera um token —certificado digital— que o permite navegar pelos recursos do seu interesse, dentro de um prazo determinado, sem a necessidade de utilizar os dados do login novamente.</p>
+
+ <p align="justify">Nela o <i>token</i> funciona como um mecanismo que facilita o controle de acesso. Uma vez que os tokens trazem uma série de benefícios para o usuário, por exemplo, a possibilidade de salvar as informações do cliente no próprio <i>token</i>, e não no servidor, o que dificulta o acesso de pessoas não autorizadas.</p>
+
+<p align="justify">O token pode ser configurado de acordo com as suas necessidades, podendo conceder as autorizações devidas, pelo prazo de que necessfor necessario. Após o período de vencimento, o token para de funcionar, impedindo que o usuário continue acessando o sistema.</p>
+
+<p align="justify">Neste sentido, o <i>front-end</i> pode desempenhar um papel na geração de tokens, o que geralmente envolve apenas a captura das credenciais de login do usuário e o envio dessas informações para o servidor para processamento. Depois que o <i>token<i> é gerado no servidor, ele pode ser retornado ao <i>front-end</i> e armazenado de forma segura para uso posterior em solicitações subsequentes.</p>
+
+ 
 
 ## Referencial teórico
 
@@ -62,5 +73,7 @@ Ex: Não existe página 404, 500, por exemplo, toast e etc.
 * Mesquita, V.; Alencar, F. M.; Cavalcanti, Y. (2016). Testes unitários em aplicações web utilizando mocks. Revista de Informática Teórica e Aplicada, 23(2), 37-51.
 
 * Freeman, S.; Robson, E. (2016). Head First JavaScript Programming: A Brain-Friendly Guide. O'Reilly Media.
+
+* STALLINGS, W. Criptografia e segurança de redes: princípios e práticas. 6. ed. São Paulo: PEARSON, 2014.
 
 * ZEMEL, Tárcio. Web Design Responsivo: páginas adaptáveis para todos os dispositivos. São Paulo: Casado Código, 2013.
