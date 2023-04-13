@@ -28,10 +28,17 @@ Data | Versão | Descrição | Autor(es)
 
 <p align="justify">No projeto front-end atual é possível identificar features incompletas problemáticas, que levam o software a não atender as expectativas do usuário. Além disso, dificulta o desenvolvimento de outras partes do software que dependem dela para funcionar.</p>
 
-<p align="justify">Um exemplo de feature incompleta é a funcionalidade que permite ao usuário a recuperação de sua senha pessoal, que é representada no front-end, mas não possui funcinalidade alguma implementada. Segue imagem ilustrativa que indica o local sem a funcionalidade implementada.</p>
+<p align="justify">Um exemplo de feature incompleta é a funcionalidade que permite ao usuário a recuperação de sua senha pessoal na área de acesso a conta, que é representada no front-end, mas não possui funcinalidade alguma implementada. Segue imagem ilustrativa que indica o local sem a funcionalidade implementada.</p>
 
 <div width="100%" display = "flex" align="center">
 <img src="./assets/pain-points/imagem_indicativa_featureincompleta1.jpg" width="450">
+</div>
+
+<p align="justify">Há também botões não funcionais na página home.
+Segue imagem indicativa.</p>
+
+<div width="100%" display = "flex" align="center">
+<img src="./assets/pain-points/imagem_indicativa_featureincompleta2.png" width="450">
 </div>
 
 
@@ -64,3 +71,5 @@ Ex: Não existe página 404, 500, por exemplo, toast e etc.
 * Freeman, S.; Robson, E. (2016). Head First JavaScript Programming: A Brain-Friendly Guide. O'Reilly Media.
 
 * ZEMEL, Tárcio. Web Design Responsivo: páginas adaptáveis para todos os dispositivos. São Paulo: Casado Código, 2013.
+
+* MANNING, Jeff. Incomplete feature. In: LiveBook. Disponível em: https://livebook.manning.com/concept/agile/incomplete-feature. Acesso em: 12 abr. 2023.
