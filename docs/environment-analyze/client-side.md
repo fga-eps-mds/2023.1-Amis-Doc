@@ -13,6 +13,7 @@ Data | Versão | Descrição | Autor(es)
 11/04/2023 | 1.1 | Adicionando tópico 3| [@dansousamelo](http://github.com/dansousamelo)|
 12/04/2023 | 1.2 |Adicionando tópico 1| [@malu214](http://github.com/marialuisa214)
 12/04/2023 | 1.3 |Adicionando tópico 2| [@gaubiela](https://github.com/gaubiela)
+12/04/2023 | 1.4 |Adicionando tópico 5| [@gaubiela](https://github.com/gaubiela)
 
 
 ## 1. Site não responsivo
@@ -26,9 +27,9 @@ Data | Versão | Descrição | Autor(es)
 ## 2. Features Incompletas
 <p align="justify">Uma feature incompleta é um termo utilizado no desenvolvimento de software para descrever uma funcionalidade que não está totalmente implementada ou que não atende completamente às necessidades do usuário final. Isso pode ocorrer por uma série de motivos, como falta de tempo, recursos ou compreensão inadequada dos requisitos do usuário..</p>
 
-<p align="justify">No projeto front-end atual é possível identificar features incompletas problemáticas, que levam o software a não atender as expectativas do usuário. Além disso, dificulta o desenvolvimento de outras partes do software que dependem dela para funcionar.</p>
+<p align="justify">No projeto <i>front-end</i> atual é possível identificar features incompletas problemáticas, que levam o software a não atender as expectativas do usuário. Além disso, dificulta o desenvolvimento de outras partes do software que dependem dela para funcionar.</p>
 
-<p align="justify">Um exemplo de feature incompleta é a funcionalidade que permite ao usuário a recuperação de sua senha pessoal na área de acesso a conta, que é representada no front-end, mas não possui funcinalidade alguma implementada. Segue imagem ilustrativa que indica o local sem a funcionalidade implementada.</p>
+<p align="justify">Um exemplo de feature incompleta é a funcionalidade que permite ao usuário a recuperação de sua senha pessoal na área de acesso a conta, que é representada no <i>front-end</i>, mas não possui funcinalidade alguma implementada. Segue imagem ilustrativa que indica o local sem a funcionalidade implementada.</p>
 
 <div width="100%" display = "flex" align="center">
 <img src="./assets/pain-points/imagem_indicativa_featureincompleta1.jpg" width="450">
@@ -56,13 +57,21 @@ Segue imagem indicativa.</p>
 
 Ex: Não existe página 404, 500, por exemplo, toast e etc.
 
-## 5. Acessibilidade
+## 5. Acessibilidade UI/UX
+<p align="justify">Acessibilidade UI/UX refere-se ao design de experiência do usuário e interface do usuário com o objetivo de tornar o produto digital acessível a todos os usuários, independentemente de suas habilidades, limitações ou deficiências. Isso envolve garantir que as pessoas possam acessar e usar um produto digital sem obstáculos ou dificuldades adicionais.</p>
+
+<p align="justify">Para projetar uma experiência UI/UX acessível, é importante que os designers e desenvolvedores considerem as necessidades e limitações de todos os usuários. O desenvolvimento de.</p>
+
+<p align="justify">Garantir a acessibilidade UI/UX em um produto não é apenas uma questão de responsabilidade social, mas também pode ser uma vantagem competitiva para as empresas. Produtos digitais que são acessíveis a todos os usuários podem aumentar a base de usuários e a satisfação do cliente.</p>
+
+<p align="justify">O desenvolvimento do projeto AMIS, não tem abordado a problemática problemática de acessibilidade UI/UX. Tendo em vista o público da aplicação a ser desenvolvida é possível considerar de suma importância a necessidade de uma atenção maior a esse tema.</p>
 
 ## 6. Guia de estilo
 
 ## 7. Má gerência em gerenciar usuários logados
 
 ## Referencial teórico
+* MANNING, Jeff. Incomplete feature. In: LiveBook. Disponível em: https://livebook.manning.com/concept/agile/incomplete-feature. Acesso em: 12 abr. 2023.
 
 * MARCOTTE, Ethan. Responsive Web Desing. New York: A Book Apart, 2011.
 
@@ -70,6 +79,7 @@ Ex: Não existe página 404, 500, por exemplo, toast e etc.
 
 * Freeman, S.; Robson, E. (2016). Head First JavaScript Programming: A Brain-Friendly Guide. O'Reilly Media.
 
+* Hand Talk. (2022). UX/UI design acessível: tudo o que você precisa saber. https://www.handtalk.me/br/blog/uxui-design-acessivel-tudo-o-que-voce-precisa-saber/. Acesso em: 12 abr. 2023.
+
 * ZEMEL, Tárcio. Web Design Responsivo: páginas adaptáveis para todos os dispositivos. São Paulo: Casado Código, 2013.
 
-* MANNING, Jeff. Incomplete feature. In: LiveBook. Disponível em: https://livebook.manning.com/concept/agile/incomplete-feature. Acesso em: 12 abr. 2023.
