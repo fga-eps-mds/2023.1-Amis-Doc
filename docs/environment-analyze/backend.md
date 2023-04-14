@@ -2,10 +2,9 @@
 
 Esse documento tem como objetivo identificar falhas no repositório responsável pelo back-end do semestre 2022.2.
 
-<br></br>
 
 <div style="display: flex; justify-content: center; align-items:center;">
-    <img style="border-radius: 50%;" src="./assets/analyze/backend.png">
+    <img src="../assets/analyze/backend.png" style="width: 30%;">
 </div>
 
 ## Histórico de versões
