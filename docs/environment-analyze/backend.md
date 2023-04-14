@@ -4,7 +4,7 @@ Esse documento tem como objetivo identificar falhas no repositório responsável
 
 
 <div style="display: flex; justify-content: center; align-items:center;">
-    <img src="../assets/analyze/backend.png" style="width: 30%;">
+    <img src="./assets/analyze/backend.png" style="width: 30%;">
 </div>
 
 ## Histórico de versões
