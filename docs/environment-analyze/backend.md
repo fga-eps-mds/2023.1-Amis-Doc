@@ -5,7 +5,7 @@ Esse documento tem como objetivo identificar falhas no repositório responsável
 <br></br>
 
 <div style="display: flex; justify-content: center; align-items:center;">
-    <img style="border-radius: 50%;" src="./assets/analyze/backend.md">
+    <img style="border-radius: 50%;" src="./assets/analyze/backend.png">
 </div>
 
 ## Histórico de versões
