@@ -24,7 +24,9 @@ Esse documento tem como objetivo identificar falhas no repositório responsável
 ## 2. Arquitetura de microsserviços
 <p align="justify">
 O microsserviços é um tipo de arquitetura de software que visa a construção de pequenos serviços que são independentes entre si, mas que se comunicam uns com os outros utilizando APIs bem definidas. Nesse tipo de arquitetura, cada serviço realiza uma única função.
+</p>
 
+<p align="justify">
 Nesse caso, o atual projeto poderia ser melhor dividido em relação a abordagem de microsserviços. Como por exemplo, atualmente a relação de cadastro de turmas, alunas, receitas, são todas realizadas em uma única API, e segundo a arquitetura de microsserviços seria melhor explorada, sendo cada uma dividida em um serviço. Isso traria uma melhor flexibilidade, escalabilidade, além de diminuir o acoplamento.
 </p>
 
@@ -32,6 +34,15 @@ Nesse caso, o atual projeto poderia ser melhor dividido em relação a abordagem
 ## 3. Testes
 
 ## 4. Clean Code
+<p align="justify">
+Clean code é um conjunto de técnicas de programação, onde o código fonte fica fácil de ler, entender e manter. Ele é escrito de forma clara e concisa, seguindo boas práticas de programação, como utilizar nomes de variáveis descritivas, evitar duplicação de código e manter a simplicidade. O objetivo do clean code é maximizar a legibilidade do código e minimizar a probabilidade de erros. Um código limpo é mais fácil de manter e modificar, tornando-o mais eficiente e produtivo no longo prazo.
+</p>
+<p align="justify">
+Nesse projeto existem diversas falhas quando falamos de clean code, existem várias linhas
+duplicadas, código com uma sintaxe de dificil entendimento e mal estruturado. Uma possível
+solução é reestruturar o cógigo pensando em boas práticas de programação.
+
+</p>
 
 ## 5. Banco de Dados
 
