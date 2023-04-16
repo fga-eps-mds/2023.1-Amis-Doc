@@ -16,6 +16,7 @@ Esse documento tem como objetivo identificar falhas no repositório responsável
 | 16/04/2023 | 1.2    | Adicionando tópico de testes|[@biancasofia](https://github.com/biancasofia) e [@lorranyoliveira](https://github.com/lorranyoliveira) |
 | 16/04/2023 | 1.3   | Adicionando análise de testes|[@biancasofia](https://github.com/biancasofia) e [@lorranyoliveira](https://github.com/lorranyoliveira) |
 | 16/04/2023 | 1.4 | Adicionando Clean Code | [@Erick-ems](https://github.com/Erick-ems) |
+| 16/04/2023 | 1.5 | Adicionando Segurança e Autenticação | [@FilhoDoan](https://github.com/FilhoDoan) |
 
 
 ## 1. Problema de Execução
@@ -67,6 +68,13 @@ solução é reestruturar o cógigo pensando em boas práticas de programação.
 ## 6. Branches
 
 ## 7. Segurança e Autenticação
+<p align ="justify"> 
+
+Segurança e Autenticação são atributos indispensáveis para um software de alta qualidade, sendo fundamentais para manter a integridade de informações evitando problemas futuros. 
+
+No projeto atual é notável falhas de segurança e autenticação bem críticas em relação a dados comprometedores expostos ao público, uma solução seria reescrever algumas partes do código e implementar os métodos de segurança certos para o software.  
+
+</p>
 
 ## Referencial teórico
 
