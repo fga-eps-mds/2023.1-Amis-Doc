@@ -41,11 +41,14 @@ O processo de teste de software consiste em uma série de etapas para garantir q
 Nesse sentido, os testes existentes são úteis e relevantes para testar o código da API. No entanto, por problemas de configurações do projeto, a cobertura de testes unitários não é gerada. Analisando o código, é possível notar que não há cobertura de todas as linhas, também faltam testes para o serviço de login.
 Segue a análise gerada pelo SonarQube.
 
-<div style="display: flex; justify-content: center; align-items:center;">
-    <img src="./assets/analyze/cobertura.png">
-</div>
+<figure>
 
-</p>
+  ![Análise SonarQube](../assets/analyze/cobertura.png)
+
+  <figcaption style="text-align: center !important">
+    Fonte: Próprio autor
+  </figcaption>
+</figure>
 
 ## 4. Clean Code
 <p align="justify">
