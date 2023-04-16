@@ -15,7 +15,7 @@ Data | Versão | Descrição | Autor(es)
 12/04/2023 | 1.3 |Adicionando tópico 2| [@gaubiela](https://github.com/gaubiela)
 12/04/2023 | 1.4 |Adicionando tópico 5| [@gaubiela](https://github.com/gaubiela)
 12/04/2023 | 1.5 |Adicionando tópico 7| [@malu214](http://github.com/marialuisa214)
-
+16/04/2023 | 1.5 |Adicionando tópico 6| [@Peh099](https://github.com/Peh099)
 
 
 ## 1. Site não responsivo
@@ -70,6 +70,10 @@ Ex: Não existe página 404, 500, por exemplo, toast e etc.
 
 ## 6. Guia de estilo
 
+<p align="justify"> Com base em uma análise inicial do produto foi possível perceber que não foi definido um guia de estilo para ser seguido. Um guia de estilo é uma importante ferramenta para auxiliar na construção de um serviço digital consistente, independente do seu alcance, número de páginas ou micro serviços. Além disso, um guia de estilo pode servir como uma ferramenta de comunicação entre os membros da equipe de design e a equipe de desenvolvimento (Barbosa e Silva, 2010).</p>
+
+Pensando-se nesse notoriedade será criado um guia de estilo para o site que pode ser acessado na aba [Visual](/visual/guia-estilo). 
+
 ## 7. Má gerência em gerenciar usuários logados
 <p>Na autenticação por <i>token</i>, o usuário insere login e senha na plataforma, o que gera um token —certificado digital— que o permite navegar pelos recursos do seu interesse, dentro de um prazo determinado, sem a necessidade de utilizar os dados do login novamente.</p>
 
@@ -96,3 +100,4 @@ Ex: Não existe página 404, 500, por exemplo, toast e etc.
 
 * ZEMEL, Tárcio. Web Design Responsivo: páginas adaptáveis para todos os dispositivos. São Paulo: Casado Código, 2013.
 
+* BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2010.
