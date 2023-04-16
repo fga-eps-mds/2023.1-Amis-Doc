@@ -14,6 +14,7 @@ Esse documento tem como objetivo identificar falhas no repositório responsável
 | 14/04/2023 | 1.0    | Adicionando tópicos | [@gpersijn](http://github.com/gpersijn) |
 | 15/04/2023 | 1.1    | Adicionando tópico de arquitetura de microsserviços| [@lorranyoliveira](https://github.com/lorranyoliveira)[@biancasofia](https://github.com/biancasofia) |
 | 16/04/2023 | 1.2    | Adicionando tópico de testes|[@biancasofia](https://github.com/biancasofia) e [@lorranyoliveira](https://github.com/lorranyoliveira) |
+| 16/04/2023 | 1.3   | Adicionando análise de testes|[@biancasofia](https://github.com/biancasofia) e [@lorranyoliveira](https://github.com/lorranyoliveira) |
 
 
 ## 1. Problema de Execução
@@ -38,6 +39,12 @@ Nesse caso, o atual projeto poderia ser melhor dividido em relação a abordagem
 O processo de teste de software consiste em uma série de etapas para garantir que o código do programa execute sua função corretamente e não exiba um comportamento inesperado. É importante que o software seja confiável, previsível e evite surpresas desagradáveis ​​para o usuário. Os autores também definem teste como "o processo de executar um programa com a intenção de encontrar erros" (MYERS; SANDLER; BADGETT, 2011). 
 
 Nesse sentido, os testes existentes são úteis e relevantes para testar o código da API. No entanto, por problemas de configurações do projeto, a cobertura de testes unitários não é gerada. Analisando o código, é possível notar que não há cobertura de todas as linhas, também faltam testes para o serviço de login.
+Segue a análise gerada pelo SonarQube.
+
+<div style="display: flex; justify-content: center; align-items:center;">
+    <img src="./assets/analyze/cobertura.png">
+</div>
+
 </p>
 
 ## 4. Clean Code
