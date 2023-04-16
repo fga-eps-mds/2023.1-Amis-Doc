@@ -15,6 +15,7 @@ Esse documento tem como objetivo identificar falhas no repositório responsável
 | 15/04/2023 | 1.1    | Adicionando tópico de arquitetura de microsserviços| [@lorranyoliveira](https://github.com/lorranyoliveira)[@biancasofia](https://github.com/biancasofia) |
 | 16/04/2023 | 1.2    | Adicionando tópico de testes|[@biancasofia](https://github.com/biancasofia) e [@lorranyoliveira](https://github.com/lorranyoliveira) |
 | 16/04/2023 | 1.3   | Adicionando análise de testes|[@biancasofia](https://github.com/biancasofia) e [@lorranyoliveira](https://github.com/lorranyoliveira) |
+| 16/04/2023 | 1.4 | Adicionando Clean Code | [@Erick-ems](https://github.com/Erick-ems) |
 
 
 ## 1. Problema de Execução
