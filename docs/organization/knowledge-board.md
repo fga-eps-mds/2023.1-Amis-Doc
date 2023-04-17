@@ -6,17 +6,24 @@
 | ---------- | ------ | ----------------------------------------- | ------------------------------------------ |
 | 14/04/2023 | 1.0    | Criação do documento                      | [@Erick-ems](https://github.com/Erick-ems) |
 | 16/04/2023 | 1.1    | [Review] Corrigindo formatação e planilha | [@gpersijn](https://github.com/Erick-ems)  |
+| 17/04/2023 | 1.2    | Adicionando textos | [@Erick-ems](https://github.com/Erick-ems) |
 
 ## 1. Introdução
 
 <p align="justify">
-
+O quadro de conhecimentos serve para auxiliar a equipe na escolha das tecnologias
+a serem utilizadas no desenvolvimento do projeto. É uma maneira de realizar o
+rastreamento do nível de conhecimento técnico dos integrantes em diversos aspectos.
+Assim, é possivel analizar a evolução das habilidades dos integrantes ao longo do
+desenvolvimento do sistema, com base do que será explorado no projeto.
 </p>
 
 #### 1.1. Legenda
 
 <p align="justify">
-
+De 0 até 10 o quão bem cada membro conhece sobre cada, linguagem, ferramenta,
+framework...
+Sendo 0 "Não sei nada" e 10 "Sei bastante".
 </p>
 
 ## 2. Inicio do semestre
