@@ -14,6 +14,7 @@
 
 [Quadro de Conhecimentos](organization/knowledge-board.md)
 [Plano de Comunicação](organization/communication.md.md)
+[Metodologias](organization/methodology.md)
 
 - **Visual**
 
