@@ -10,6 +10,11 @@
 
 [Backend](environment-analyze/backend.md)
 
+- **Organização**
+
+[Quadro de Conhecimentos](organization/knowledge-board.md)
+[Plano de Comunicação](organization/communication.md.md)
+
 - **Visual**
 
 [Guia de Estilo](visual/guia-estilo.md)
