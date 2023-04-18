@@ -17,6 +17,7 @@ Esse documento tem como objetivo identificar falhas no repositório responsável
 | 16/04/2023 | 1.4    | Adicionando Clean Code                              | [@Erick-ems](https://github.com/Erick-ems)                                                              |
 | 16/04/2023 | 1.5    | Adicionando Segurança e Autenticação                | [@FilhoDoan](https://github.com/FilhoDoan)                                                              |
 | 16/04/2023 | 1.6    | Adicionando Branches                                | [@gpersijn](https://github.com/gpersijn)                                                                |
+| 17/04/2023   | 1.7  | Adicionando tópico Banco de Dados                   | [@caio-lelis](https://github.com/caio-lelis)      
 
 ## 1. Problema de Execução
 
@@ -64,6 +65,14 @@ solução é reestruturar o cógigo pensando em boas práticas de programação.
 </p>
 
 ## 5. Banco de Dados
+<p align="justify">
+Um banco de dados é uma ferramenta essencial para uma aplicação porque ele fornece um local seguro e organizado para armazenar e gerenciar dados. Ele é responsável por manter a integridade dos dados, garantir que não haja duplicações ou conflitos de informações, permitir a recuperação de dados rapidamente e com eficiência e possibilitar a realização de consultas e análises de dados.
+
+Sem um banco de dados adequado, uma aplicação pode ter dificuldades em lidar com grandes quantidades de dados, apresentar erros e inconsistências nas informações, ter problemas de desempenho e segurança, além de dificultar a implementação de recursos avançados como pesquisa, filtragem e relatórios personalizados.
+
+No projeto atual podemos ver problemas como a falta de proteção da URL do banco e também a falta de diagramas de modelagem do banco o que deixa a aplicação em nível de entendimento mais baixo
+</p>
+
 
 ## 6. Branches
 
