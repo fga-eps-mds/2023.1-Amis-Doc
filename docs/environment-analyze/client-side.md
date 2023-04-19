@@ -15,7 +15,8 @@ Data | Versão | Descrição | Autor(es)
 12/04/2023 | 1.3 |Adicionando tópico 2| [@gaubiela](https://github.com/gaubiela)
 12/04/2023 | 1.4 |Adicionando tópico 5| [@gaubiela](https://github.com/gaubiela)
 12/04/2023 | 1.5 |Adicionando tópico 7| [@malu214](http://github.com/marialuisa214)
-16/04/2023 | 1.5 |Adicionando tópico 6| [@Peh099](https://github.com/Peh099)
+16/04/2023 | 1.6 |Adicionando tópico 6| [@Peh099](https://github.com/Peh099)
+18/04/2023 | 1.7 |Adicionando tópico 4| [@FHansen98](https://github.com/FHansen98)
 
 
 ## 1. Site não responsivo
@@ -57,7 +58,13 @@ Segue imagem indicativa.</p>
 
 ## 4. Padrões de usabilidade incompletos
 
-Ex: Não existe página 404, 500, por exemplo, toast e etc.
+<p align="justify"> Criar um site que funcione sem erros e preveja as ações do usuário é uma tarefa complexa, e é comum ocorrerem erros de requisição para o backend e problemas de usabilidade. Esses erros podem prejudicar a experiência do usuário e afetar a impressão geral do site.
+
+<p align="justify"> Para melhorar a usabilidade do site e ajudar a aumentar a satisfação do usuário, reduzir a taxa de abandono e facilitar a identificação de bugs pelos desenvolvedores, é recomendado implementar algumas funcionalidades. Uma delas é utilizar toasts de sucesso/erro para indicar quando ocorrem requisições para o backend. Isso permite que os usuários e desenvolvedores estejam cientes do funcionamento da plataforma e possam identificar problemas com mais facilidade.
+
+<p align="justify"> Outra funcionalidade importante é criar páginas de erro personalizadas 404 para quando o usuário acessa uma URL inexistente. Essas páginas fornecem uma mensagem mais amigável e útil para o usuário, em vez de apenas uma mensagem genérica de erro. Isso ajuda a melhorar a experiência do usuário e pode incentivá-lo a continuar navegando pelo site.
+
+<p align="justify"> Em resumo, ao implementar essas funcionalidades, é possível melhorar a usabilidade do site, reduzir a taxa de abandono e aumentar a satisfação do usuário. Além disso, os desenvolvedores podem identificar bugs com mais facilidade, o que ajuda a manter a plataforma funcionando corretamente.
 
 ## 5. Acessibilidade UI/UX
 <p align="justify">Acessibilidade UI/UX refere-se ao design de experiência do usuário e interface do usuário com o objetivo de tornar o produto digital acessível a todos os usuários, independentemente de suas habilidades, limitações ou deficiências. Isso envolve garantir que as pessoas possam acessar e usar um produto digital sem obstáculos ou dificuldades adicionais.</p>
