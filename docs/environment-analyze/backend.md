@@ -18,8 +18,14 @@ Esse documento tem como objetivo identificar falhas no repositório responsável
 | 16/04/2023 | 1.5    | Adicionando Segurança e Autenticação                | [@FilhoDoan](https://github.com/FilhoDoan)                                                              |
 | 16/04/2023 | 1.6    | Adicionando Branches                                | [@gpersijn](https://github.com/gpersijn)                                                                |
 | 17/04/2023   | 1.7  | Adicionando tópico Banco de Dados                   | [@caio-lelis](https://github.com/caio-lelis)      
+| 18/04/2023   | 1.8  | Adicionando tópico de Problemas de Execução                   | [@lorraynecardozo](https://github.com/lorraynecardozo)      
 
-## 1. Problema de Execução
+## 1. Problemas de Execução
+
+O Readme é um documento importante, pois contém informações necessárias para o entendimento do projeto, como seus objetivos e o modo de execução de forma detalhada para facilitar o trabalho de futuros contribuidores do sistema.
+
+No projeto atual, nos deparamos com o impasse de não conseguir executar o projeto com nenhuma das instruções dadas pelo documento, visto que as informações de execução se encontravam incompletas, tanto realizando as instalações quanto em relação ao Docker.
+
 
 <p align="justify">
 
