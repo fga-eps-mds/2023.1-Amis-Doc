@@ -39,8 +39,16 @@
 <p align="justify"> A <i>Daily</i> é uma reunião diária de acompanhamento da equipe com o objetivo de que cada participante relate seu status e possíveis obstáculos para a conclusão do projeto. Neste projeto a reunião dura em média quinze minutos. </p>
 
 ### <i>Sprint Review</i>
+<p align="justify"> A <i>Sprint Review</i>  é uma reunião que ocorre no final da <i>sprint</i> em que é feita uma revisão do que foi feito, tendo uma visão geral de como está o produto </p>
+
 
 ## XP
+<p align="justify"> O Extreme Programming (XP) é uma metodologia ágil que nasceu com o intuito de tentar solucionar os problemas que eram causados pelas metodologias tradicionais. O XP tem quatro princípios: Comunicação, Simplicidade, Feedback e Coragem.  O XP tem diversos tipos de práticas, totalizando 12 tipos, entre elas pode-se destacar a programação em pares que é quando dois programadores escrevem o código juntos em um mesmo computador.
+</p>
+
+## Kanban
+<p align="justify"> O Kanban é um sistema de gestão de trabalho, que possui como objetivo a definição de um fluxo de trabalho. Além disso tem como foco produtividade e organização das entregas. O kanban é mais conhecido devido o uso do quadro kanban, em que o mesmo é dividido, normalmente em cinco colunas: backlog, to do, doing, review e done. Na coluna de backlog fica os cards com as atividades que precisam ser feitas para realização do trabalho completo. Na coluna to do ficam os cards que precisam ser feitos durante a spring, quando começa a atividade o card é movido para coluna de doing, quando terminado vai para coluna de revisão e por último quando tudo finalizado vai para done. </p>
+
 
 
 
