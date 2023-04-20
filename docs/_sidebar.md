@@ -19,3 +19,8 @@
 - **Visual**
 
 [Guia de Estilo](visual/guia-estilo.md)
+
+
+- **Visão de Produto**
+
+[Personas](visao/personas.md)
