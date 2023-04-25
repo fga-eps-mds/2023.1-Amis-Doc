@@ -8,9 +8,14 @@
 
 ## 1. Introdução
 
-<p align="justify"> </p>
+<p align="justify"> 
+  O documento É, Não É, Faz, Não Faz é uma importante etapa do Lean Inception, um workshop colaborativo para concepção e planejamento de um produto. Este documento tem o objetivo alinhar as expectativas da equipe sobre o produto a ser desenvolvido, esclarecendo o que o produto deve ser e não ser, bem como o que ele deve fazer e não fazer. Dessa forma, a equipe pode definir quais são as funcionalidades prioritárias do produto e quais são aquelas que podem ser deixadas para uma fase posterior do desenvolvimento.
 
-<p align="justify"> </p>
+</p>
+
+<p align="justify">
+Além disso, o presente documento ajuda a equipe a entender melhor as necessidades e expectativas do cliente em relação ao produto, orientando no desenvolvimento de uma solução que atenda às suas necessidades. 
+</p>
 
 ## 2. É, Não É, Faz, Não Faz
 
