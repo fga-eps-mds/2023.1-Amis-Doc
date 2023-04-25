@@ -24,3 +24,4 @@
 - **Visão de Produto**
 
 [Personas](visao/personas.md)
+[Objetivos do Produto](visao/objetivos.md)
