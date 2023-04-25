@@ -4,7 +4,8 @@
 
 | Data       | Versão | Descrição                                              | Autor(es)                                           |
 | ---------- | ------ | ------------------------------------------------------ | --------------------------------------------------- |
-| 25/04/2023 | 1.0    | Criação do documento |[@lorraynecardozo](https://github.com/lorraynecardozo), [@Erick-ems](https://github.com/Erick-ems) e [@FilhoDoan](https://github.com/FilhoDoan)|
+| 25/04/2023 | 1.0    | Criação do documento |[@lorraynecardozo](https://github.com/lorraynecardozo), [@Erick-ems](https://github.com/Erick-ems) e [@FilhoDoan](https://github.com/FilhoDoan)| 
+|25/04/2023 | 1.1    | Criação da Introdução do Documento |[@FilhoDoan](https://github.com/FilhoDoan), [@lorraynecardozo](https://github.com/lorraynecardozo) e [@Erick-ems](https://github.com/Erick-ems)  |
 
 ## 1. Introdução
 
