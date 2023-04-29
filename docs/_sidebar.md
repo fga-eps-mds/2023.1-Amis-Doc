@@ -15,13 +15,13 @@
 [Quadro de Conhecimentos](organization/knowledge-board.md)
 [Plano de Comunicação](organization/communication.md.md)
 [Metodologias](organization/methodology.md)
+[Guia de Contribuição](organization/contribution-guide.md)
 
 - **Visual**
 
 [Guia de Estilo](visual/guia-estilo.md)
 
-
-- **Visão de Produto**
+- **Visão de Produto - Lean Inception**
 
 [Visão de Produto](visao/visao-produto.md)
 [Personas](visao/personas.md)
