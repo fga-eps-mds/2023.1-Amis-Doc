@@ -23,13 +23,19 @@ git commit -m "#12 - adicionando funcionalidade x"
 Para documentação, deve-se utilizar o seguinte formato:
 
 ```
-git commit -m ":docs: #12 - adicionando texto x"
+git commit -m "docs #12 - adicionando texto x"
 ```
 
 Para atualizações de tarefas de configuração, sem alterações no código:
 
 ```
 git commit -m "chore: mudando na sidebar"
+```
+
+Para pequenas mudanças, sem alteração significativa no documento, arrumar alguma formatação:
+
+```
+git commit -m "fix #12 - correcao ortografica"
 ```
 
 ### 3. Padrão de Issue

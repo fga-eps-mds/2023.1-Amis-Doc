@@ -21,7 +21,7 @@
 
 [Guia de Estilo](visual/guia-estilo.md)
 
-- **Visão de Produto - Lean Inception**
+- **Visão de Produto**
 
 [Visão de Produto](visao/visao-produto.md)
 [Personas](visao/personas.md)
