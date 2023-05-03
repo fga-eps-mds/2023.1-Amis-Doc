@@ -23,6 +23,7 @@
 
 - **Visão de Produto**
 
+[Brainstorming](visao/brainstorming.md)
 [Visão de Produto](visao/visao-produto.md)
 [Personas](visao/personas.md)
 [Objetivos do Produto](visao/objetivos.md)
