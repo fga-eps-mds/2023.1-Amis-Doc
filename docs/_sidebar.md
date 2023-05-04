@@ -29,3 +29,4 @@
 [Objetivos do Produto](visao/objetivos.md)
 [É, Não É, Faz, Não Faz](visao/e_naoe_faz_naofaz.md)
 [Revisão Técnica](visao/revisao-tecnica.md)
+[Canvas MVP](visao/canvas_mvp.md)
