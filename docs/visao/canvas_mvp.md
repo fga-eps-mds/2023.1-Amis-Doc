@@ -6,7 +6,7 @@
 | ---------- | ------ | ---------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
 | 04/05/2023 | 1.0    | Criação do documento | [@Peh099](https://github.com/Peh099) e [@FilhoDoan](https://github.com/FilhoDoan) |
 | 04/05/2023 | 1.1    | Criação da Introdução do Documento | [@Peh099](https://github.com/Peh099) e [@FilhoDoan](https://github.com/FilhoDoan) |
-| 04/05/2023 | 1.2    | Adição da imagem | [@Peh099](https://github.com/Peh099) e e [@FilhoDoan](https://github.com/FilhoDoan) |
+| 04/05/2023 | 1.2    | Adição da imagem | [@Peh099](https://github.com/Peh099) e [@FilhoDoan](https://github.com/FilhoDoan) |
 
 ## 1. Introdução
 
