@@ -1,16 +1,128 @@
 # AMIS
 
-O projeto da Plataforma de Franquia Social surgiu no ano de 2022, sendo desenvolvido pelas disciplinas de EPS e MDS.
+## Sobre
+
+A Franquia Social é um projeto da ONG "Instituto Mulheres Criativas" que tem como objetivo auxiliar no desenvolvimento e capacitação de pessoas atráves de cursos, palestras e oficinas de culinária. O projeto de um Plataforma de Franquia Social surgiu no segundo semestre do ano de 2022, sendo desenvolvido pelas disciplinas de EPS e MDS da Universidade de Brasília.
+
+## Justificativa
+
+A principal tônica do projeto é oferecer suporte as atividades das ONG's, apoiando sua missão de capacitar mulheres por meio de cursos gratuítos e outras ações sociais, para isso o Amis se propõe a amenizar o esforço em tarefas burocraticas na gerencia das atividades da ONG.
 
 
 ## Equipe
 
-<p align="justify">O projeto da Plataforma de Franquia Social surgiu no semestre de 2022.2, sendo desenvolvido pelas disciplinas de EPS e MDS. A Franquia Social é um projeto da ONG "Instituto Mulheres Criativas" que tem como objetivo auxiliar no desenvolvimento e capacitação de pessoas atráves de cursos, palestras e oficinas de culinária.</p>
+### EPS
 
+<center>
 
-<div style="display: flex; justify-content: center; align-items:center;">
-    <img src="./assets/team/team.png">
-</div>
+<table style="margin-left: auto; margin-right: auto;">
+    <tr>
+        <td align="center">
+            <a href="https://github.com/biancasofia">
+                <img style="border-radius: 50%;" src="https://github.com/biancasofia.png" width="150px;"/>
+                <h5 class="text-center">Bianca Sofia</h5>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/LorrayneCardozo">
+                <img style="border-radius: 50%;" src="https://github.com/LorrayneCardozo.png" width="150px;"/>
+                <h5 class="text-center">Lorrayne Cardozo</h5>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/Peh099">
+                <img style="border-radius: 50%;" src="https://github.com/Peh099.png" width="150px;"/>
+                <h5 class="text-center">Pedro Henrique</h5>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/GustavoAPS">
+                <img style="border-radius: 50%;" src="https://github.com/GustavoAPS.png" width="150px;"/>
+                <h5 class="text-center">Gustavo Afonso</h5>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/lorranyoliveira">
+                <img style="border-radius: 50%;" src="https://github.com/lorranyoliveira.png" width="150px;"/>
+                <h5 class="text-center">Lorrany Oliveira</h5>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/gpersijn">
+                <img style="border-radius: 50%;" src="https://github.com/gpersijn.png" width="150px;"/>
+                <h5 class="text-center">Gustave Persijn</h5>
+            </a>
+        </td>
+</table>
 
+</center>
 
-<p align="justify">A equipe é composta por 17 membros ao todo, sendo 7 de EPS e 10 de MDS, logo acima temos os representantes do grupo, sendo os 7 primeiros da disciplina de EPS e os outros 10 de MDS.</p>
+### MDS
+
+<center>
+
+<table style="margin-left: auto; margin-right: auto;">
+    <tr>
+        <td align="center">
+            <a href="https://github.com/caio-lelis">
+                <img style="border-radius: 50%;" src="https://github.com/caio-lelis.png" width="150px;"/>
+                <h5 class="text-center">Caio Lucas</h5>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/marialuisa214">
+                <img style="border-radius: 50%;" src="https://github.com/marialuisa214.png" width="150px;"/>
+                <h5 class="text-center">Maria Luisa</h5>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/Erick-ems">
+                <img style="border-radius: 50%;" src="https://github.com/Erick-ems.png" width="150px;"/>
+                <h5 class="text-center">Erick Miranda</h5>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/CauaMatheus">
+                <img style="border-radius: 50%;" src="https://github.com/CauaMatheus.png" width="150px;"/>
+                <h5 class="text-center">Caua Matheus</h5>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/caioalvesbraga">
+                <img style="border-radius: 50%;" src="https://github.com/caioalvesbraga.png" width="150px;"/>
+                <h5 class="text-center">Caio Felipe</h5>
+            </a>
+        </td>
+    </tr>
+    <tr>
+         <td align="center">
+            <a href="https://github.com/FilhoDoan">
+                <img style="border-radius: 50%;" src="https://github.com/FilhoDoan.png" width="150px;"/>
+                <h5 class="text-center">Doan de Jesus</h5>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/gaubiela">
+                <img style="border-radius: 50%;" src="https://github.com/gaubiela.png" width="150px;"/>
+                <h5 class="text-center">Gabriela Silva</h5>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/Iagorrr04">
+                <img style="border-radius: 50%;" src="https://github.com/Iagorrr04.png" width="150px;"/>
+                <h5 class="text-center">Iago Rocha</h5>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/FHansen98">
+                <img style="border-radius: 50%;" src="https://github.com/FHansen98.png" width="150px;"/>
+                <h5 class="text-center">Felipe Aguiar</h5>
+            </a>
+        </td>
+         <td align="center">
+            <a href="https://github.com/eric-kingu">
+                <img style="border-radius: 50%;" src="https://github.com/eric-kingu.png" width="150px;"/>
+                <h5 class="text-center">Eric Akio</h5>
+            </a>
+        </td>
+</table>
