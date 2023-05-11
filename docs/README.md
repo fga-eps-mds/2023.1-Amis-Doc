@@ -1,17 +1,7 @@
 # AMIS
 
-<p align="justify">O projeto da Plataforma de Franquia Social surgiu no ano de 2022, sendo desenvolvido pelas disciplinas de EPS e MDS. 
-<br></br>
-<div style="display: flex; justify-content: center; align-items:center; transform: scale(2)">
-    <img src="./assets/logo-menor.svg">
-</div>
-<br></br>
+O projeto da Plataforma de Franquia Social surgiu no ano de 2022, sendo desenvolvido pelas disciplinas de EPS e MDS.
 
-## Histórico de versões
-
-Data | Versão | Descrição | Autor(es) 
----- | ----------- | ------ | ---------
-08/04/2023 | 1.0 | Adicionando membros da equipe| [@dansousamelo](http://github.com/dansousamelo)|
 
 ## Equipe
 
