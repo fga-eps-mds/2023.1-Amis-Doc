@@ -1,10 +1,4 @@
-## Titulo do documento
-
-| Data       | Versão | Descrição            | Autor(es)                                |
-| ---------- | ------ | -------------------- | ---------------------------------------- |
-| 27/04/2023 | 1.0    | Criação do documento | [Gustavo Afonso](https://github.com/GustavoAPS) |
-
-### 1. Histórico de Atividades da Equipe
+## Histórico de Atividades da Equipe
 
 
 | Data | Hora | Atividade | Ambiente |
@@ -19,7 +13,14 @@
 | 21/04 | 21h | Dojô Python | Discord |
 | 27/04 | 21h | Dojô FastApi | Discord |
 
-### 2. Reuniões recorrentes
+## Reuniões recorrentes
 
 - Reunião Geral EPS/MDS toda segunda ás 20h	
 - Reunião Cliente toda quarta ás 8:30h
+
+
+## Histórico de versões
+
+| Data       | Versão | Descrição            | Autor(es)                                |
+| ---------- | ------ | -------------------- | ---------------------------------------- |
+| 27/04/2023 | 1.0    | Criação do documento | [Gustavo Afonso](https://github.com/GustavoAPS) |

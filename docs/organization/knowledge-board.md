@@ -1,12 +1,5 @@
 # Quadro de Conhecimentos
 
-## Histórico de versões
-
-| Data       | Versão | Descrição                                 | Autor(es)                                  |
-| ---------- | ------ | ----------------------------------------- | ------------------------------------------ |
-| 14/04/2023 | 1.0    | Criação do documento                      | [@Erick-ems](https://github.com/Erick-ems) |
-| 16/04/2023 | 1.1    | [Review] Corrigindo formatação e planilha | [@gpersijn](https://github.com/Erick-ems)  |
-| 17/04/2023 | 1.2    | Adicionando textos | [@Erick-ems](https://github.com/Erick-ems) |
 
 ## 1. Introdução
 
@@ -39,3 +32,12 @@ Sendo 0 "Não sei nada" e 10 "Sei bastante".
 <iframe width="100%" height="450px" style={{minWidth: "640px", minHeight: "480px", backgroundColor: "#f4f4f4", border: "1px solid #efefef" }} src="https://docs.google.com/spreadsheets/d/15Twb3D9h2yhIhmJAZ1CEta_e71qJ29qsbvEYwetcjQ8/edit#gid=0"></iframe>
 
 [Link para a planilha](https://docs.google.com/spreadsheets/d/15Twb3D9h2yhIhmJAZ1CEta_e71qJ29qsbvEYwetcjQ8/edit#gid=0)
+
+
+## Histórico de versões
+
+| Data       | Versão | Descrição                                 | Autor(es)                                  |
+| ---------- | ------ | ----------------------------------------- | ------------------------------------------ |
+| 14/04/2023 | 1.0    | Criação do documento                      | [@Erick-ems](https://github.com/Erick-ems) |
+| 16/04/2023 | 1.1    | [Review] Corrigindo formatação e planilha | [@gpersijn](https://github.com/Erick-ems)  |
+| 17/04/2023 | 1.2    | Adicionando textos | [@Erick-ems](https://github.com/Erick-ems) |

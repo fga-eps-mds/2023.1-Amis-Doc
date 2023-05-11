@@ -5,20 +5,7 @@ Esse documento tem como objetivo identificar falhas no repositório responsável
 <div style="display: flex; justify-content: center; align-items:center;">
     <img src="./assets/analyze/backend.png" style="width: 30%;">
 </div>
-
-## Histórico de versões
-
-| Data       | Versão | Descrição                                           | Autor(es)                                                                                               |
-| ---------- | ------ | --------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| 14/04/2023 | 1.0    | Adicionando tópicos                                 | [@gpersijn](http://github.com/gpersijn)                                                                 |
-| 15/04/2023 | 1.1    | Adicionando tópico de arquitetura de microsserviços | [@lorranyoliveira](https://github.com/lorranyoliveira)[@biancasofia](https://github.com/biancasofia)    |
-| 16/04/2023 | 1.2    | Adicionando tópico de testes                        | [@biancasofia](https://github.com/biancasofia) e [@lorranyoliveira](https://github.com/lorranyoliveira) |
-| 16/04/2023 | 1.3    | Adicionando análise de testes                       | [@biancasofia](https://github.com/biancasofia) e [@lorranyoliveira](https://github.com/lorranyoliveira) |
-| 16/04/2023 | 1.4    | Adicionando Clean Code                              | [@Erick-ems](https://github.com/Erick-ems)                                                              |
-| 16/04/2023 | 1.5    | Adicionando Segurança e Autenticação                | [@FilhoDoan](https://github.com/FilhoDoan)                                                              |
-| 16/04/2023 | 1.6    | Adicionando Branches                                | [@gpersijn](https://github.com/gpersijn)                                                                |
-| 17/04/2023   | 1.7  | Adicionando tópico Banco de Dados                   | [@caio-lelis](https://github.com/caio-lelis)      
-| 18/04/2023   | 1.8  | Adicionando tópico de Problemas de Execução                   | [@lorraynecardozo](https://github.com/lorraynecardozo)      
+      
 
 ## 1. Problemas de Execução
 
@@ -100,3 +87,18 @@ No projeto atual é notável falhas de segurança e autenticação bem críticas
 
 MYERS, G. J.; SANDLER, C.; BADGETT, T. The art of software testing. [S.l.]: John
 Wiley & Sons, 2011.
+
+
+## Histórico de versões
+
+| Data       | Versão | Descrição                                           | Autor(es)                                                                                               |
+| ---------- | ------ | --------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| 14/04/2023 | 1.0    | Adicionando tópicos                                 | [@gpersijn](http://github.com/gpersijn)                                                                 |
+| 15/04/2023 | 1.1    | Adicionando tópico de arquitetura de microsserviços | [@lorranyoliveira](https://github.com/lorranyoliveira)[@biancasofia](https://github.com/biancasofia)    |
+| 16/04/2023 | 1.2    | Adicionando tópico de testes                        | [@biancasofia](https://github.com/biancasofia) e [@lorranyoliveira](https://github.com/lorranyoliveira) |
+| 16/04/2023 | 1.3    | Adicionando análise de testes                       | [@biancasofia](https://github.com/biancasofia) e [@lorranyoliveira](https://github.com/lorranyoliveira) |
+| 16/04/2023 | 1.4    | Adicionando Clean Code                              | [@Erick-ems](https://github.com/Erick-ems)                                                              |
+| 16/04/2023 | 1.5    | Adicionando Segurança e Autenticação                | [@FilhoDoan](https://github.com/FilhoDoan)                                                              |
+| 16/04/2023 | 1.6    | Adicionando Branches                                | [@gpersijn](https://github.com/gpersijn)                                                                |
+| 17/04/2023   | 1.7  | Adicionando tópico Banco de Dados                   | [@caio-lelis](https://github.com/caio-lelis)      
+| 18/04/2023   | 1.8  | Adicionando tópico de Problemas de Execução                   | [@lorraynecardozo](https://github.com/lorraynecardozo)

@@ -1,14 +1,5 @@
 # É, Não É, Faz, Não Faz
 
-## Histórico de versões
-
-| Data       | Versão | Descrição                          | Autor(es)                                                                                                                                       |
-| ---------- | ------ | ---------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| 25/04/2023 | 1.0    | Criação do documento               | [@lorraynecardozo](https://github.com/lorraynecardozo), [@Erick-ems](https://github.com/Erick-ems) e [@FilhoDoan](https://github.com/FilhoDoan) |
-| 25/04/2023 | 1.1    | Criação da Introdução do Documento | [@FilhoDoan](https://github.com/FilhoDoan), [@lorraynecardozo](https://github.com/lorraynecardozo) e [@Erick-ems](https://github.com/Erick-ems) |
-| 25/04/2023 | 1.2    | Adição da imagem                   | [@Erick-ems](https://github.com/Erick-ems), [@lorraynecardozo](https://github.com/lorraynecardozo) e [@FilhoDoan](https://github.com/FilhoDoan) |
-| 27/04/2023 | 1.3    | Formatação do documento            | [@Erick-ems](https://github.com/Erick-ems), [@lorraynecardozo](https://github.com/lorraynecardozo) e [@FilhoDoan](https://github.com/FilhoDoan) |
-
 ## 1. Introdução
 
 <p align="justify"> 
@@ -34,3 +25,14 @@ Além disso, o presente documento ajuda a equipe a entender melhor as necessidad
 ## 3. Referencial teórico
 
 [1] Lean Inception, “É, Não É, Faz, Não Faz”. Disponivel em: https://www.caroli.org/e-nao-e-faz-nao-faz/
+
+
+
+## Histórico de versões
+
+| Data       | Versão | Descrição                          | Autor(es)                                                                                                                                       |
+| ---------- | ------ | ---------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| 25/04/2023 | 1.0    | Criação do documento               | [@lorraynecardozo](https://github.com/lorraynecardozo), [@Erick-ems](https://github.com/Erick-ems) e [@FilhoDoan](https://github.com/FilhoDoan) |
+| 25/04/2023 | 1.1    | Criação da Introdução do Documento | [@FilhoDoan](https://github.com/FilhoDoan), [@lorraynecardozo](https://github.com/lorraynecardozo) e [@Erick-ems](https://github.com/Erick-ems) |
+| 25/04/2023 | 1.2    | Adição da imagem                   | [@Erick-ems](https://github.com/Erick-ems), [@lorraynecardozo](https://github.com/lorraynecardozo) e [@FilhoDoan](https://github.com/FilhoDoan) |
+| 27/04/2023 | 1.3    | Formatação do documento            | [@Erick-ems](https://github.com/Erick-ems), [@lorraynecardozo](https://github.com/lorraynecardozo) e [@FilhoDoan](https://github.com/FilhoDoan) |

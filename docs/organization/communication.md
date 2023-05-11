@@ -1,12 +1,5 @@
 # Plano de Comunicações
 
-## Histórico de versões
-
-| Data       | Versão | Descrição                                              | Autor(es)                                           |
-| ---------- | ------ | ------------------------------------------------------ | --------------------------------------------------- |
-| 14/04/2023 | 1.0    | Criação de documento                                   | [@caioalvesbraga](http://github.com/caioalvesbraga) |
-| 16/04/2023 | 1.1    | [Review] Ajuste de plataformas, correção de formatação | [@gpersijn](http://github.com/gpersijn)             |
-| 27/04/2023 | 1.2    | Adicionando topico 4. Plano de Reuniões                | [@gpersijn](http://github.com/gpersijn)             |
 
 ## 1. Introdução
 
@@ -67,3 +60,12 @@ A ata de reunião aborda 3 tópicos elementares:
 1. Pautas da reunião
 2. Dúvidas pontuadas
 3. Responsáveis pela apresentação
+
+
+## Histórico de versões
+
+| Data       | Versão | Descrição                                              | Autor(es)                                           |
+| ---------- | ------ | ------------------------------------------------------ | --------------------------------------------------- |
+| 14/04/2023 | 1.0    | Criação de documento                                   | [@caioalvesbraga](http://github.com/caioalvesbraga) |
+| 16/04/2023 | 1.1    | [Review] Ajuste de plataformas, correção de formatação | [@gpersijn](http://github.com/gpersijn)             |
+| 27/04/2023 | 1.2    | Adicionando topico 4. Plano de Reuniões                | [@gpersijn](http://github.com/gpersijn)             |

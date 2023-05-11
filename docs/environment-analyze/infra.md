@@ -1,11 +1,5 @@
 # Análise de infra inical
 
-## Histórico de versões
-
-Data | Versão | Descrição | Autor(es) 
----- | ----------- | ------ | ---------
-13/04/2023 | 1.0 | Adicionando tópicos 1| [@iagorrr04](http://github.com/iagorrr04)|
-
 ## 1 Pontos críticos
 
 ### 1.1 Microsserviços mal estruturados
@@ -24,3 +18,10 @@ Data | Versão | Descrição | Autor(es)
 ## Referencial teórico
 
 * WIKIPEDIA Connection pool. Disponível em: https://en.wikipedia.org/wiki/Connection_pool . Acesso em 13 abr. 2023 
+
+
+## Histórico de versões
+
+Data | Versão | Descrição | Autor(es) 
+---- | ----------- | ------ | ---------
+13/04/2023 | 1.0 | Adicionando tópicos 1| [@iagorrr04](http://github.com/iagorrr04)|

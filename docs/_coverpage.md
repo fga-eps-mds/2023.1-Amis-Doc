@@ -1,3 +1,0 @@
-
-<!-- background image -->
-<!-- background color -->

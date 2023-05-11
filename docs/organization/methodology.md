@@ -1,11 +1,5 @@
 # Metodologias
 
-## Histórico de versões
-
-| Data       | Versão | Descrição                                              | Autor(es)                                           |
-| ---------- | ------ | ------------------------------------------------------ | --------------------------------------------------- |
-| 17/04/2023 | 1.0    | Criação de documento e adição das metodologias  |[@biancasofia](https://github.com/biancasofia) e [@lorranyoliveira](https://github.com/lorranyoliveira)|
-
 
 ## 1. Introdução
 
@@ -72,11 +66,8 @@
 <p align="justify"> O Kanban é um sistema de gestão de trabalho, que possui como objetivo a definição de um fluxo de trabalho. Além disso tem como foco produtividade e organização das entregas. O kanban é mais conhecido devido o uso do quadro kanban, em que o mesmo é dividido, normalmente em cinco colunas: backlog, to do, doing, review e done. Na coluna de backlog fica os cards com as atividades que precisam ser feitas para realização do trabalho completo. Na coluna to do ficam os cards que precisam ser feitos durante a spring, quando começa a atividade o card é movido para coluna de doing, quando terminado vai para coluna de revisão e por último quando tudo finalizado vai para done. </p>
 
 
-
-
-
-
 ## Referências
+
 CAROLI, Paulo. Lean inception. São Paulo, BR: Caroli. org, 2017.
 
 CRUZ, Fábio. Scrum e PMBOK unidos no Gerenciamento de Projetos. Brasport, 2013.
@@ -86,3 +77,9 @@ desenvolvimento de software: XP, Scrum e Lean.
 
 PEREIRA, Paulo; TORREÃO, Paula; MARÇAL, Ana Sofia. Entendendo Scrum para gerenciar projetos de forma ágil. Mundo PM, v. 1, p. 3-11, 2007.
 
+
+## Histórico de versões
+
+| Data       | Versão | Descrição                                              | Autor(es)                                           |
+| ---------- | ------ | ------------------------------------------------------ | --------------------------------------------------- |
+| 17/04/2023 | 1.0    | Criação de documento e adição das metodologias  |[@biancasofia](https://github.com/biancasofia) e [@lorranyoliveira](https://github.com/lorranyoliveira)|

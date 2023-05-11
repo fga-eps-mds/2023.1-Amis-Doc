@@ -1,8 +1,3 @@
-## Guia de Contribuição
-
-| Data       | Versão | Descrição            | Autor(es)                                |
-| ---------- | ------ | -------------------- | ---------------------------------------- |
-| 29/04/2023 | 1.0    | Criação do documento | [@gpersijn](https://github.com/gpersijn) |
 
 ### 1. Idioma
 
@@ -96,3 +91,9 @@ texto texto texto
 </p>
 
 ```
+
+## Guia de Contribuição
+
+| Data       | Versão | Descrição            | Autor(es)                                |
+| ---------- | ------ | -------------------- | ---------------------------------------- |
+| 29/04/2023 | 1.0    | Criação do documento | [@gpersijn](https://github.com/gpersijn) |

@@ -5,19 +5,6 @@ Esse documento tem como objetivo identificar falhas no repositório responsável
     <img src="./assets/analyze/client-side.svg">
 </div>
 
-## Histórico de versões
-
-Data | Versão | Descrição | Autor(es) 
----- | ----------- | ------ | ---------
-10/04/2023 | 1.0 | Adicionando tópicos| [@dansousamelo](http://github.com/dansousamelo)|
-11/04/2023 | 1.1 | Adicionando tópico 3| [@dansousamelo](http://github.com/dansousamelo)|
-12/04/2023 | 1.2 |Adicionando tópico 1| [@malu214](http://github.com/marialuisa214)
-12/04/2023 | 1.3 |Adicionando tópico 2| [@gaubiela](https://github.com/gaubiela)
-12/04/2023 | 1.4 |Adicionando tópico 5| [@gaubiela](https://github.com/gaubiela)
-12/04/2023 | 1.5 |Adicionando tópico 7| [@malu214](http://github.com/marialuisa214)
-16/04/2023 | 1.6 |Adicionando tópico 6| [@Peh099](https://github.com/Peh099)
-18/04/2023 | 1.7 |Adicionando tópico 4| [@FHansen98](https://github.com/FHansen98)
-
 
 ## 1. Site não responsivo
 <p align="justify">Com mais pessoas usando smartphones e tablets para tarefas que antes eram possíveis apenas no desktop, é cada vez mais importante criar um site que funcione em várias plataformas e atenda às necessidades e requisitos dos clientes.</p>
@@ -108,3 +95,17 @@ Pensando-se nesse notoriedade será criado um guia de estilo para o site que pod
 * ZEMEL, Tárcio. Web Design Responsivo: páginas adaptáveis para todos os dispositivos. São Paulo: Casado Código, 2013.
 
 * BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2010.
+
+
+## Histórico de versões
+
+Data | Versão | Descrição | Autor(es) 
+---- | ----------- | ------ | ---------
+10/04/2023 | 1.0 | Adicionando tópicos| [@dansousamelo](http://github.com/dansousamelo)|
+11/04/2023 | 1.1 | Adicionando tópico 3| [@dansousamelo](http://github.com/dansousamelo)|
+12/04/2023 | 1.2 |Adicionando tópico 1| [@malu214](http://github.com/marialuisa214)
+12/04/2023 | 1.3 |Adicionando tópico 2| [@gaubiela](https://github.com/gaubiela)
+12/04/2023 | 1.4 |Adicionando tópico 5| [@gaubiela](https://github.com/gaubiela)
+12/04/2023 | 1.5 |Adicionando tópico 7| [@malu214](http://github.com/marialuisa214)
+16/04/2023 | 1.6 |Adicionando tópico 6| [@Peh099](https://github.com/Peh099)
+18/04/2023 | 1.7 |Adicionando tópico 4| [@FHansen98](https://github.com/FHansen98)
