@@ -5,6 +5,7 @@
   - [Visão de Produto](visao/visao-produto.md)
   - [Personas](visao/personas.md)
   - [Objetivos do Produto](visao/objetivos.md)
+  - [Sequenciador](visao/sequenciador.md)
   - [É, Não É, Faz, Não Faz](visao/e_naoe_faz_naofaz.md)
   - [Revisão Técnica](visao/revisao-tecnica.md)
   - [Canvas MVP](visao/canvas_mvp.md)
