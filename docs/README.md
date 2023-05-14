@@ -2,7 +2,7 @@
 
 ## Sobre
 
-A Franquia Social é um projeto da ONG "Instituto Mulheres Criativas" que tem como objetivo auxiliar no desenvolvimento e capacitação de pessoas atráves de cursos, palestras e oficinas de culinária. O projeto de um Plataforma de Franquia Social surgiu no segundo semestre do ano de 2022, sendo desenvolvido pelas disciplinas de EPS e MDS da Universidade de Brasília.
+O AMIS é um projeto da ONG Instituto Mulheres Criativas que tem como objetivo auxiliar no desenvolvimento e capacitação de pessoas atráves de cursos, palestras e oficinas de culinária. O projeto de um Plataforma de Franquia Social surgiu no segundo semestre do ano de 2022, sendo desenvolvido pelas disciplinas de EPS e MDS da Universidade de Brasília.
 
 ## Justificativa
 
