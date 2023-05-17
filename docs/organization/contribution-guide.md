@@ -1,4 +1,3 @@
-
 ### 1. Idioma
 
 <p align="justify">
@@ -90,6 +89,15 @@ Ao criar um novo documento markdown certifique-se que o padrão de documentaçã
 texto texto texto
 </p>
 
+```
+
+## 6. Padrão de Branch
+
+<p align="justify">
+O padrão de criação de branches deve seguir 'numero-Issue' - nome, conforme exemplo:</p>
+
+```
+15-login
 ```
 
 ## Guia de Contribuição
