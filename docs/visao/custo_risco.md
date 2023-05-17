@@ -34,6 +34,7 @@ Com base nas informações fornecidas pelo Mercado Livre de Energia (2023), o cu
 
 <center>
 <figure>
+
 ![](../assets/custos/custos_totais.png)
 
 <figcaption style="text-align: center !important">
