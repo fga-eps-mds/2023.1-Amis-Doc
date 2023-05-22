@@ -30,7 +30,3 @@
 - **Organização**
 
 [Plano de Comunicação](visual/guia-estilo.md)
-
-- **Visual**
-
-  - [Guia de Estilo](visual/guia-estilo.md)
