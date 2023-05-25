@@ -13,6 +13,7 @@
     - [Estrutura Analítica do Projeto (EAP)](visao/estrutura_analitica_projeto.md)
     - [Backlog do Produto](backlog/backlog.md)
     - [Custo](visao/custo_risco.md)
+    - [Guia de Estilo](visao/guia_estilo.md)
 
 - **Análise de ambiente**
 
