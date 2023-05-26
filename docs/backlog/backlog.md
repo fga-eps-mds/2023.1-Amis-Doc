@@ -10,7 +10,9 @@ A priorização do backlog é essencial para determinar a ordem em que esses ite
 
 ## 2. Backlog
 
-![Backlog](../assets/backlog/backlog.jpg)
+<a href="https://ibb.co/YfGTT1B"><img src="https://i.ibb.co/SVp77Mw/AMIS-2023-1-Backlog-Backlog-Inicial-page-0001.jpg" alt="AMIS-2023-1-Backlog-Backlog-Inicial-page-0001" border="0"></a>
+
+Link: https://docs.google.com/spreadsheets/d/17hqw-chQdFcsozbuvFKvyXfSiuczcPhSx6PTaX1oKic/edit?usp=sharing
 
 ## Histórico de versão
 
