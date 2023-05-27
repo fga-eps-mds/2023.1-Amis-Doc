@@ -11,13 +11,13 @@ Este plano de comunicações possui a finalidade de nortear a estruturação da 
 
 ### 2.1 EPS
 
-<iframe width="100%" height="800px" style={{minWidth: "640px", minHeight: "480px", backgroundColor: "#f4f4f4", border: "1px solid #efefef"}} src="https://docs.google.com/spreadsheets/d/14PB-ATAeOBTE7E9hjAV2lKpuOyOQ4RnXG-moIKJ3TLk/edit#gid=0"></iframe>
+<iframe width="100%" height="400px" style={{minWidth: "640px", minHeight: "480px", backgroundColor: "#f4f4f4", border: "1px solid #efefef"}} src="https://docs.google.com/spreadsheets/d/14PB-ATAeOBTE7E9hjAV2lKpuOyOQ4RnXG-moIKJ3TLk/edit#gid=0"></iframe>
 
 [Link para a planilha de EPS](https://docs.google.com/spreadsheets/d/14PB-ATAeOBTE7E9hjAV2lKpuOyOQ4RnXG-moIKJ3TLk/edit#gid=0)
 
 ### 2.2 MDS
 
-<iframe width="100%" height="800px" style={{minWidth: "640px", minHeight: "480px", backgroundColor: "#f4f4f4", border: "1px solid #efefef"}} src="https://docs.google.com/spreadsheets/d/10JTE1L4kgIxjuuvN8mZ1kNsT8oZeOkeXWSt2ffx0jFk/edit?hl=pt-br#gid=0"></iframe>
+<iframe width="100%" height="400" style={{minWidth: "640px", minHeight: "480px", backgroundColor: "#f4f4f4", border: "1px solid #efefef"}} src="https://docs.google.com/spreadsheets/d/10JTE1L4kgIxjuuvN8mZ1kNsT8oZeOkeXWSt2ffx0jFk/edit?hl=pt-br#gid=0"></iframe>
 
 [Link para a planilha de MDS](https://docs.google.com/spreadsheets/d/10JTE1L4kgIxjuuvN8mZ1kNsT8oZeOkeXWSt2ffx0jFk/edit?hl=pt-br#gid=0)
 

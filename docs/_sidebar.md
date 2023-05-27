@@ -1,6 +1,7 @@
 - **Projeto**
 
-  - Lean Inception
+  - **Lean Inception**
+  
     - [Brainstorming](visao/brainstorming.md)
     - [Visão de Produto](visao/visao-produto.md)
     - [Personas](visao/personas.md)
@@ -9,7 +10,9 @@
     - [É, Não É, Faz, Não Faz](visao/e_naoe_faz_naofaz.md)
     - [Revisão Técnica](visao/revisao-tecnica.md)
     - [Canvas MVP](visao/canvas_mvp.md)
-  - Planejamento
+
+  - **Planejamento**
+
     - [Planejamento de Qualidade](visao/qualidade.md)
     - [Documento Arquitetura](visao/arquitetura.md)
     - [Estrutura Analítica do Projeto (EAP)](visao/estrutura_analitica_projeto.md)
@@ -30,10 +33,7 @@
   - [Plano de Comunicação](organization/communication.md.md)
   - [Metodologias](organization/methodology.md)
   - [Guia de Contribuição](organization/contribution-guide.md)
-
-- **Organização**
-
-[Plano de Comunicação](visual/guia-estilo.md)
+  - [Plano de Comunicação](visual/guia-estilo.md)
 
 - **Sprints**
 

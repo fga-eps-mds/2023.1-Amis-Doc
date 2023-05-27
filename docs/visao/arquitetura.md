@@ -37,9 +37,6 @@ Para a comunicação entre os microsserviços, serão enviadas mensagens assínc
 - Aplicação de práticas de codificação segura e validação adequada de entrada para evitar vulnerabilidades de segurança.
 - Configuração adequada de permissões e restrições de acesso ao banco de dados no Google Cloud.
 
-## Considerações de Monitoramento
-
-A principal ferramenta de monitoramento vai ser a plataforma SonarCloud.
 
 ## Considerações de Escalabilidade
 
