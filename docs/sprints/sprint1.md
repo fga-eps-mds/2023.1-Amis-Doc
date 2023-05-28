@@ -2,39 +2,36 @@
 
 ## Objetivos
 
-- Criação dos novos repositório dos micro-serviços
-- Configuração do sonar
-- Refatoração da US10- Fazer Logout
-- Refatoração da US09- Fazer Login
-- Refatoração da US02- Cadastrar aluno
-- Refatoração da US02- Cadastrar assistente social
+- Desenvolver 4 Novas US;
+- Estruturação dos novos micro-serviços;
+- Documentar o Plano de riscos;
+- Configuração do Banco de Dados na AWS;
+- Configurar Sonar.
 
 ## Planejamento
-**Início:** 10/05/2023<br/>
-**Fim:** 17/05/2023
+**Início:** 17/05/2023<br/>
+**Fim:** 24/05/2023
 
-### Conclusão de Atividades da Sprint 1
-Tivemos um problema em relação a conclusão da sprint, a qual acabou transbordando as US para Sprint 2.
+## Resumo de Atividades
 
-| Número da Issue | Issue | Repositório | Estimativa | Responsáveis
-|:-: |:-: |:-: | :-:|:-: |
-| #8 | [US01] Cadastrar Assistente Social | 2023.1-Amis-Front | 1 | Lorrayne, Erick, Felipe |
-| #8 | [US01] Cadastrar Assistente Social | 2023.1-Amis-UserService | 2 | Bianca, Iago |
-| #10 | [US02] Cadastrar Aluno | 2023.1-Amis-Front | 1 | Pedro, Eric |
-| #8 | [US01] Cadastrar Aluno | 2023.1-Amis-UserService | 2 | Lorrany, Caio Braga, Erick |
-| #15 | [US09] Fazer login | 2023.1-Amis-UserService | 1 | Gustave, Maria, Gabriela |
-| #17 | [US10] Fazer logout | 2023.1-Amis-UserService | 1 | Gustavo, Doan, Caio Lelis |
-| #33 | Configuração do sonar | 2023.1-Amis-Doc | - | Lorrayne
+### Novas Atividades
+
+| Número da Issue |                   Issue                    |       Repositório       | Estimativa |         Responsáveis         |   Status    |
+|:---------------:|:------------------------------------------:|:-----------------------:|:----------:|:----------------------------:|:-----------:|
+|     #22            |     Configurar SonarCloud                                       |    2023.1-Amis-UserService e 2023.1-Amis-Front                     |    -        |    Lorrayne, Gustave, Pedro                          |   Done          |
+|       #20       |            Documento de Riscos             |            -            |     -      |        Sofia, Lorrany        |    Done     |
+|       #18       |            Estruturação dos MS             | 2023.1-Amis-UserService |     -      | Caua, Gustave, Iago, Gustavo |    Done     |
+|       #8        | [US01] Cadastrar Assistente Social - Front |    2023.1-Amis-Front    |     2      |   Lorrayne, Erick, Felipe    |  In Tests   |
+|       #8        | [US01] Cadastrar Assistente Social - Back  | 2023.1-Amis-UserService |     3      |         Bianca, Iago         |  In tests   |
+|       #10       |       [US02] Cadastrar Aluno - Front       |    2023.1-Amis-Front    |     2      |         Pedro, Eric          |  In tests   |
+|       #8        |       [US01] Cadastrar Aluno - Back        | 2023.1-Amis-UserService |     3      |  Lorrany, Caio Braga, Erick  |  In tests   |
+|       #15       |         [US09] Fazer login - Back          | 2023.1-Amis-UserService |     5      |   Gustave, Maria, Gabriela   | In progress |
+|       #17       |         [US10] Fazer logout - Back         | 2023.1-Amis-UserService |     3      |  Gustavo, Doan, Caio Lelis   | In progress |
 
 <br/>
 
 
-## Estimativa Total: 8
 
-
-
-## Histórico de versão
-
-|  Data  |   Versão   | Descrição |Autor(es)
-|:------:|-----------:|:-------:|:---:|
-| 25/05/2023 | 1.0 | Criação de documento e adição do conteúdo | [@lorranyoliveira](https://github.com/lorranyoliveira)  |
+## Estimativas e Entregas
+* Pontos entregues: 0
+* Pontos estimados: 18
