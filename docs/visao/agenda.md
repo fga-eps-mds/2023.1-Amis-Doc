@@ -41,4 +41,4 @@ Neste documento constam as atividades realizadas préviamente as sprints de dese
 
 | Data | Versão | Descrição | Autor(es) |
 |------|--------|-----------|-----------|
-| 16/11/2022 | 0.1 | Criação do documento | [Gustavo Afonso](https://github.com/GustavoAPS) |
+| 05/05/2022 | 0.1 | Criação do documento | [Gustavo Afonso](https://github.com/GustavoAPS) |
