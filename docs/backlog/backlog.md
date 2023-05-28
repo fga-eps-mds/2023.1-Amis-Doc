@@ -9,8 +9,9 @@ A priorização do backlog é essencial para determinar a ordem em que esses ite
 </p>
 
 ## 2. Backlog
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSA4urEDndEIm4kV85XkYXjEZ4BcU_sxl4g8nbDmbvBbNT32HNDHmvyj9wse47ztU0nx8vFXPfd13yv/pubhtml?gid=877927985&amp;single=true&amp;widget=false&amp;headers=false&chrome=false" frameborder="0" width="800" height="900"></iframe>
 
+
+<a href="https://ibb.co/sghkG7j"><img src="https://i.ibb.co/D1Nsyd4/Screenshot-from-2023-05-28-10-44-02.png" alt="Screenshot-from-2023-05-28-10-44-02" border="0"></a>
 
 [Link do Backlog](https://docs.google.com/spreadsheets/d/17hqw-chQdFcsozbuvFKvyXfSiuczcPhSx6PTaX1oKic/edit#gid=877927985)
 
