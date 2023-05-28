@@ -24,6 +24,20 @@ O banco de dados será hospedado no Google Cloud, aproveitando os serviços de b
 
 O Google Cloud SQL oferece recursos como replicação, backups automáticos e escalabilidade vertical e horizontal. Os microsserviços se conectarão ao banco de dados por meio da biblioteca de acesso a dados SQLAlchemy.
 
+#### DER
+ De acordo com Nogueira (1988 apud FRANCK; PEREIRA; FILHO, 2021), um Diagrama de Entidade-Relacionamento (DER) é uma representação gráfica que ilustra as interações entre "entidades", as quais podem englobar indivíduos, elementos físicos ou abstratos, presentes em um sistema. Ao adotar o DER, é viável estruturar as informações de maneira nítida e exata, o que simplifica a compreensão do sistema e viabiliza a criação de um banco de dados eficaz e bem-organizado. Adicionalmente, o DER pode ser empregado como uma ferramenta de comunicação entre a equipe de desenvolvimento e os envolvidos no projeto, possibilitando que todos tenham uma percepção clara dos dados que serão manipulados pelo sistema.
+
+<center>
+<figure>
+
+![](../assets/Conceitual_amis.png)
+
+<figcaption style="text-align: center !important">
+    Fonte: Próprio autor
+  </figcaption>
+</figure>
+</center>
+
 ## Comunicação entre Componentes
 
 A comunicação entre o frontend React e os microsserviços será feita por meio de APIs RESTful. Os microsserviços fornecerão endpoints bem definidos para receber solicitações e fornecer respostas em formato JSON. O frontend fará chamadas HTTP para os endpoints apropriados para obter e enviar dados.
@@ -64,8 +78,15 @@ A manutenção do sistema é uma consideração importante para garantir a confi
 É importante lembrar que este é apenas um esboço e que detalhes adicionais podem ser necessários durante a implementação real do projeto. Para futuras mudanças recomenda-se a realização de análises mais aprofundadas e discussões com a equipe de desenvolvimento para refinar e ajustar a arquitetura de acordo com os requisitos específicos do projeto.
 
 
+## Referências
+
+NOGUEIRA, D. L. Ferramentas automatizadas para apoio ao projeto estruturado: uma aplicação do diagrama de entidade-relacionamento. Tese (Doutorado) — Universidade Federal do Rio de Janeiro, Rio de Janeiro, RS, 1988. Tese (Doutorado em Ciências em Engenharia de Sistemas e Computação). 
+
+FRANCK, K. M.; PEREIRA, R. F.; FILHO, J. V. D. Diagrama entidade-relacionamento: uma ferramenta para modelagem de dados conceituais em engenharia de software. Research, Society and Development, v. 10, n. 8, 2021.
+
 ## Histórico de versão
 
 |  Data  |   Versão   | Descrição |Autor(es)
 |:------:|-----------:|:-------:|:---:|
 | 25/05/2023 | 1.0 | Criando primeira versão | [Gustavo Afonso](https://github.com/GustavoAPS)|
+| 28/05/2023 | 1.1 | Adicionando DER | [@biancasofia](https://github.com/biancasofia)|
