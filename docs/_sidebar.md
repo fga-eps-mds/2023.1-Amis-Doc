@@ -1,7 +1,7 @@
 - **Projeto**
 
   - **Lean Inception**
-  
+    - [Agenda](visao/agenda.md)
     - [Brainstorming](visao/brainstorming.md)
     - [Visão de Produto](visao/visao-produto.md)
     - [Personas](visao/personas.md)
@@ -33,7 +33,7 @@
   - [Plano de Comunicação](organization/communication.md.md)
   - [Metodologias](organization/methodology.md)
   - [Guia de Contribuição](organization/contribution-guide.md)
-  - [Plano de Comunicação](visual/guia-estilo.md)
+  - [Plano de Comunicação](organization/communication.md)
 
 - **Sprints**
 
