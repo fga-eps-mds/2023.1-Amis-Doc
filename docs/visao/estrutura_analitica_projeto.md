@@ -12,6 +12,8 @@ A estrutura analítica de projeto é frequentemente usada para auxiliar na defin
 
 ![EAP](../assets/visao-produto/eap.jpg)
 
+[Link do EAP](https://miro.com/app/board/uXjVMJPIRjg=/)
+
 ## Histórico de versão
 
 |    Data    | Versão |         Descrição          |                    Autor(es)                    |
