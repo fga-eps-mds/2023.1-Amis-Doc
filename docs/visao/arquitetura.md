@@ -18,6 +18,46 @@ O sistema consistirá em quatro microsserviços independentes, cada um implement
 
 Os microsserviços serão projetados seguindo princípios de escalabilidade horizontal, permitindo que mais instâncias dos serviços sejam implantadas conforme necessário para lidar com aumentos de carga. Eles também serão projetados para serem independentes e desacoplados, o que permitirá que sejam desenvolvidos, implantados e dimensionados separadamente.
 
+Como design pattern para a arquitetura de cada MS, foi escolhido o DDD com o SOLID. Essa arquitetura combina os princípios de Microservices, que envolve dividir um sistema em componentes independentes, com os conceitos de DDD e SOLID, que promovem a organização do código-fonte e a manutenção de um design flexível e robusto.
+
+No DDD, o foco é colocado no domínio do negócio, onde os Microservices são projetados em torno de domínios específicos. Cada Microservice representa uma parte isolada do sistema, com sua própria lógica de negócio, banco de dados e interface de programação (API).
+
+A aplicação dos princípios SOLID (Single Responsibility, Open-Closed, Liskov Substitution, Interface Segregation e Dependency Inversion) na arquitetura de Microservices com DDD busca garantir que cada componente seja coeso, encapsulado e dependa apenas de abstrações, em vez de implementações concretas. Isso promove a modularidade, reutilização de código e facilidade de manutenção.
+
+Um exemplo da arquitetura em camadas para o MS Classroom seria:
+
+```
+src
+   |-- domain
+   |     |-- entities
+   |     |       |-- Turma.js
+   |     |       |-- Curso.js
+   |     |
+   |     |-- repositories
+   |     |       |-- TurmaRepositoryBaseModel.js
+   |     |       |-- CursoRepositoryBaseModel.js
+   |
+   |-- application
+   |     |-- useCases
+   |     |       |-- CadastrarTurmaUseCase.js
+   |     |       |-- CadastrarCursoUseCase.js
+   |     |       |-- CadastrarAlunoNaTurmaUseCase.js
+   |     |
+   |     |-- controllers
+   |             |-- TurmaController.js
+   |             |-- CursoController.js
+   |
+   |-- infrastructure
+   |     |-- repositories 
+   |     |       |-- TurmaRepository.js
+   |     |       |-- CursoRepository.js
+   |     |
+   |     |-- external                 
+   |             |-- ProfessorController.js  
+   |             |-- AlunoController.js   
+
+```
+
 ### Banco de Dados no Google Cloud
 
 O banco de dados será hospedado no Google Cloud, aproveitando os serviços de banco de dados oferecidos pela plataforma. Por meio do uso do Google Cloud SQL para fornecer um banco de dados relacional altamente disponível e escalável.
@@ -90,3 +130,4 @@ FRANCK, K. M.; PEREIRA, R. F.; FILHO, J. V. D. Diagrama entidade-relacionamento:
 |:------:|-----------:|:-------:|:---:|
 | 25/05/2023 | 1.0 | Criando primeira versão | [Gustavo Afonso](https://github.com/GustavoAPS)|
 | 28/05/2023 | 1.1 | Adicionando DER | [@biancasofia](https://github.com/biancasofia)|
+| 29/05/2023 | 1.2 | Adicionando arquitetura dos MS | [@gpersijn](https://github.com/gpersijn)|
