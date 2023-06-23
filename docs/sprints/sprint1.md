@@ -9,8 +9,8 @@
 - Configurar Sonar.
 
 ## Planejamento
-**Início:** 17/05/2023<br/>
-**Fim:** 24/05/2023
+**Início:** 10/05/2023<br/>
+**Fim:** 16/05/2023
 
 ## Resumo de Atividades
 

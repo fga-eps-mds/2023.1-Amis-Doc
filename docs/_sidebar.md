@@ -42,5 +42,7 @@
   - [Sprint 3](sprints/sprint3.md)
   - [Sprint 4](sprints/sprint4.md)
   - [Sprint 5](sprints/sprint5.md)
+  - [Sprint 6](sprints/sprint6.md)
+
   
 

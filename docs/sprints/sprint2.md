@@ -11,7 +11,7 @@
 
 ## Planejamento
 **Início:** 17/05/2023<br/>
-**Fim:** 24/05/2023
+**Fim:** 23/05/2023
 
 ## Resumo de Atividades
 

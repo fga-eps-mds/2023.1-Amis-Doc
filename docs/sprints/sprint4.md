@@ -7,8 +7,8 @@
 - Produção do Frontend e Backend da US12 - Cadastrar as instruções da produção;
 
 ## Planejamento
-**Início:** 07/06/2023<br/>
-**Fim:** 13/06/2023
+**Início:** 31/05/2023<br/>
+**Fim:** 06/06/2023
 
 ## Resumo de Atividades
 
