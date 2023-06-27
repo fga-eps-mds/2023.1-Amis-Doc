@@ -1,4 +1,4 @@
-# Sprint 5
+# Sprint 6
 
 ## Objetivos
 
@@ -39,3 +39,4 @@
 
 ## Estimativas e Entregas
 * Pontos planejados: 36
+* Pontos entregues: 23

@@ -19,7 +19,7 @@
 | Número da Issue |             Issue              |       Repositório       | Estimativa |           Responsáveis            |  Status   |
 |:---------------:|:------------------------------:|:-----------------------:|:----------:|:---------------------------------:| :---: |
 |       #11      |          [US10] Matricular aluno em turma        |          2023.1-Amis-Front  e 2023.1-Amis-ClassroomService          |     5      |       Pedro, Maria       |    In progress |
-|       #12       |    [US09] Cadastrar turma   |    2023.1-Amis-Front  e 2023.1-Amis-ClassroomService  |     8      |     Gustavo, Doan, Gabriela       | Falta testes no back |
+|       #12       |    [US09] Cadastrar turma   |    2023.1-Amis-Front  e 2023.1-Amis-ClassroomService  |     8      |     Gustavo, Doan, Gabriela       | Done |
 
 
 
@@ -43,4 +43,5 @@
 
 
 ## Estimativas e Entregas
-* Pontos planejados: 27
+* Pontos planejados: 29
+* Entregues : 8
