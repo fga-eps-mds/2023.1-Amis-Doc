@@ -41,5 +41,5 @@
 
 
 ## Estimativas e Entregas
-* Pontos entregues: 23
-* Pontos planejados: 26
+* Pontos entregues: 20
+* Pontos planejados: 23
