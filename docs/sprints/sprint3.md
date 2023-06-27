@@ -27,10 +27,12 @@
 |:---------------:|:------------------------------:|:-----------------------:|:----------:|:---------------------------------:| :---: |
 |       #11      |          [US10] Matricular aluno em turma        |          2023.1-Amis-Front  e 2023.1-Amis-ClassroomService          |     5      |       Pedro, Maria       |   In progress  |
 |       #12       |    [US09] Cadastrar turma   |    2023.1-Amis-Front  e 2023.1-Amis-ClassroomService  |     8      |     Gustavo, Doan, Gabriela       |   In progress  |
+|       #07      |    [US07] Cadastrar curso   |    2023.1-Amis-Front  e 2023.1-Amis-ClassroomService  |     5      |     Bianca Sofia, Erick Santos e Iago       |   In progress  |
+|       #08      |    [US08] Visualizar os dados cadastrados de curso   |    2023.1-Amis-Front  e 2023.1-Amis-ClassroomService  |     5      |     Bianca Sofia, Erick Santos e Iago       |   In progress  |
 
 
 
 
 ## Estimativas e Entregas
-* Pontos planejados: 18
+* Pontos planejados: 28
 * Pontos entregues: 0
