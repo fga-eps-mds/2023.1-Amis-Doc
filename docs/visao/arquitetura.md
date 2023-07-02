@@ -70,7 +70,7 @@ O Google Cloud SQL oferece recursos como replicação, backups automáticos e es
 <center>
 <figure>
 
-![](../assets/Conceitual_amis.png)
+![](../assets/Conceitual_amis2.png)
 
 <figcaption style="text-align: center !important">
     Fonte: Próprio autor
@@ -131,3 +131,4 @@ FRANCK, K. M.; PEREIRA, R. F.; FILHO, J. V. D. Diagrama entidade-relacionamento:
 | 25/05/2023 | 1.0 | Criando primeira versão | [Gustavo Afonso](https://github.com/GustavoAPS)|
 | 28/05/2023 | 1.1 | Adicionando DER | [@biancasofia](https://github.com/biancasofia)|
 | 29/05/2023 | 1.2 | Adicionando arquitetura dos MS | [@gpersijn](https://github.com/gpersijn)|
+| 01/07/2023 | 1.3 | Atualizando diagrama | [@biancasofia](https://github.com/biancasofia)|
