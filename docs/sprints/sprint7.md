@@ -3,8 +3,8 @@
 ## Objetivos
 
 - Concluir as US que transbordaram da Sprint 6;
-- Produção do Frontend e Backend da US11 - Visualizar instruções da produção;
-- Produção do Frontend e Backend da US12 - Cadastrar as instruções da produção;
+- Produção do Frontend e Backend da US16 - Inscrever no centro produtivo;
+- Produção do Frontend e Backend da US17 - Gerenciar Relatório do Centro Produtivo;
 
 ## Planejamento
 **Início:** 21/06/2023<br/>
