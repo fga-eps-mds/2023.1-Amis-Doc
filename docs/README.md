@@ -36,12 +36,6 @@ A principal tônica do projeto é oferecer suporte as atividades das ONG's, apoi
             </a>
         </td>
         <td align="center">
-            <a href="https://github.com/GustavoAPS">
-                <img style="border-radius: 50%;" src="https://github.com/GustavoAPS.png" width="150px;"/>
-                <h5 class="text-center">Gustavo Afonso</h5>
-            </a>
-        </td>
-        <td align="center">
             <a href="https://github.com/lorranyoliveira">
                 <img style="border-radius: 50%;" src="https://github.com/lorranyoliveira.png" width="150px;"/>
                 <h5 class="text-center">Lorrany Oliveira</h5>

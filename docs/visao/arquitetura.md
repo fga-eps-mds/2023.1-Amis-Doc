@@ -5,6 +5,10 @@
 Este documento descreve a arquitetura de software para um projeto que utiliza o React no frontend, quatro microsserviços implementados com FastAPI e um banco de dados hospedado no Google Cloud. A arquitetura foi projetada para ser escalável, resiliente e de alto desempenho. A arquitetura do sistema é baseada em uma abordagem de microsserviços, onde diferentes componentes são separados em serviços independentes e interagem através de interfaces bem definidas. A seguir, apresenta-se um esboço da arquitetura em alto nível:
 
 ![Arquitetura](../assets/arquitetura.png)
+<figcaption style="text-align: center !important">
+    Fonte: Próprio autor
+  </figcaption>
+</figure>
 
 ## Componentes
 
@@ -132,3 +136,4 @@ FRANCK, K. M.; PEREIRA, R. F.; FILHO, J. V. D. Diagrama entidade-relacionamento:
 | 28/05/2023 | 1.1 | Adicionando DER | [@biancasofia](https://github.com/biancasofia)|
 | 29/05/2023 | 1.2 | Adicionando arquitetura dos MS | [@gpersijn](https://github.com/gpersijn)|
 | 01/07/2023 | 1.3 | Atualizando diagrama | [@biancasofia](https://github.com/biancasofia)|
+| 08/07/2023 | 1.4 | Atualizando arquitetura | [@Peh099](https://github.com/Peh099)|
