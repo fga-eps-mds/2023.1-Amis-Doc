@@ -34,6 +34,7 @@
   - [Metodologias](organization/methodology.md)
   - [Guia de Contribuição](organization/contribution-guide.md)
   - [Plano de Comunicação](organization/communication.md)
+  - [EVM](organization/EVM.md)
 
 - **Sprints**
 
