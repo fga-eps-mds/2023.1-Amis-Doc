@@ -13,6 +13,7 @@
 
   - **Planejamento**
 
+    - [Prototipo de Alta Fidelidade](visao/prototipo.md)
     - [Planejamento de Qualidade](visao/qualidade.md)
     - [Documento Arquitetura](visao/arquitetura.md)
     - [Estrutura Analítica do Projeto (EAP)](visao/estrutura_analitica_projeto.md)
