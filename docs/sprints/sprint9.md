@@ -2,7 +2,7 @@
 
 ## Objetivos
 
-- Concluir as US que transbordaram da Sprint 7;
+- Concluir as US que transbordaram da Sprint 8;
 - Produção do Frontend e Backend da US11 - Validar aluno no centro produtivo;
 
 ## Planejamento
