@@ -24,7 +24,7 @@
 ### Novas atividades
 | Número da Issue |             Issue              |       Repositório       | Estimativa |           Responsáveis            |  Status   |
 |:---------------:|:------------------------------:|:-----------------------:|:----------:|:---------------------------------:| :---: |
-|       #68      |   [US16] Inscrever no centro produtivo  |    2023.1-Amis-Front  e 2023.1-Amis-ProductionService  |     8      |     Caua, Gustave,Pedro, Maria Luisa, Doan    |  In progress |
+|       #68      |   [US16] Inscrever no centro produtivo  |    2023.1-Amis-Front  e 2023.1-Amis-ProductionService  |     8      |     Caua, Gustave,Pedro    |  In progress |
 |       #69     |   [US17] Gerenciar Relatório do Centro Produtivo  |    2023.1-Amis-Front  e 2023.1-Amis-ProductionService  |     8      |     Sofia, Iago e Erick    |  In progress |
 
 
