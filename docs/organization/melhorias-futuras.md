@@ -4,7 +4,7 @@
 ## 1. Introdução
 
 <p align="justify">
-Esta página visa descrever as melhorias futuras deste projeto, buscando guiar os próximos contribuidores do projeto.
+Esta página visa descrever as melhorias futuras deste projeto, buscando guiar os próximos contribuidores.
 </p>
 
 * Remover escolha de perfil de usuário ao fazer o login;
@@ -13,7 +13,9 @@ Esta página visa descrever as melhorias futuras deste projeto, buscando guiar o
 * Melhorar a descrição de "quem somos" e "nossa missão" da aplicação;
 * Permitir que os alunos recebam notificações quando seu agendamento for aprovado pelo supervisor;
 * Permitir que os alunos visualizem outros alunos confirmados no centro produtivo;
-* Permitir que os alunos recebam notificações sobre seu desempenho cadastrado pelo supervisor.
+* Permitir que os alunos recebam notificações sobre seu desempenho cadastrado pelo supervisor;
+* Permitir que o usuário veja seu nome e tipo de perfil ao se logar;
+* Elaborar página que permita que o aluno veja as produções que está inscrito.
 
 
 ## Histórico de versões
