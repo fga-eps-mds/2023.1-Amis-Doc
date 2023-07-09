@@ -20,7 +20,6 @@
 |       #63       |   [US11] Visualizar instruções da capacitação  |    2023.1-Amis-Front  e 2023.1-Amis-ClassroomService  |     8      |     Lorrayne, Felipe, Eric       |  Done |
 
 
-
 ### Novas atividades
 | Número da Issue |             Issue              |       Repositório       | Estimativa |           Responsáveis            |  Status   |
 |:---------------:|:------------------------------:|:-----------------------:|:----------:|:---------------------------------:| :---: |
