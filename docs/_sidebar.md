@@ -36,7 +36,7 @@
   - [Guia de Contribuição](organization/contribution-guide.md)
   - [Plano de Comunicação](organization/communication.md)
   - [EVM](organization/EVM.md)
-
+  - [Melhorias Futuras](organization/melhorias-futuras.md)
 - **Sprints**
 
   - [Sprint 1](sprints/sprint1.md)
