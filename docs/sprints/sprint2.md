@@ -33,8 +33,8 @@
 | Número da Issue |             Issue              |       Repositório       | Estimativa |           Responsáveis            |  Status   |
 |:---------------:|:------------------------------:|:-----------------------:|:----------:|:---------------------------------:| :---: |
 |       #29       |         Deploy na AWS          |          Todos          |     -      |       Gustavo, Cauã e Iago        |   Done  |
-|       #19       |   [US11] Cadastrar Professor - Back   |    2023.1-Amis-Front    |     2      |      Pedro, Maria, Gabriela       |   Done  |
-|       #19       |   [US11] Cadastrar Professor - Front   | 2023.1-Amis-UserService |     3      |     Gustave, Doan, Caio Lelis     |   In progress  |
+|       #19       |   [US11] Cadastrar Professor - Front   |    2023.1-Amis-Front    |     2      |      Pedro, Maria, Gabriela       |   Done  |
+|       #19       |   [US11] Cadastrar Professor - Back   | 2023.1-Amis-UserService |     3      |     Gustave, Doan, Caio Lelis     |   In progress  |
 |       #51       |  Documento de Plano de Riscos  |     2023.1-Amis-Doc     |     -      | Lorrany, Bianca, Eric, Caio Braga |  Done   |
 |       #52       |    Documento de Arquitetura    |     2023.1-Amis-Doc     |     -      |   Bianca, Pedro, Erick, Felipe    |   Done  |
 |       #53       | Configuração do Banco de Dados | 2023.1-Amis-UserService |     -      |          Lorrany, Bianca          |  Done   |
