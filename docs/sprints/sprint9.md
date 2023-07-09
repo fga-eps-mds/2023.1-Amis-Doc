@@ -11,7 +11,6 @@
 
 ## Resumo de Atividades
 
-
 ### Atividades transbordadas da Sprint 8
 
 | Número da Issue |             Issue              |       Repositório       | Estimativa |           Responsáveis            |  Status   |
