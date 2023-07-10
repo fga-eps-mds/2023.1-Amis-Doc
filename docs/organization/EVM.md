@@ -20,9 +20,14 @@ O objetivo principal do AgileEVM é fornecer aos gerentes de projeto e equipes u
 
 <iframe width="100%" height="500px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQY42qqBNohmdnt8z-1wKb86ZQgrEiRgKlhYR08YZt5CpAxfkGk84DeIpiLeAVwZKtVtCV5obyVxEfS/pubhtml?widget=true&amp;headers=false"></iframe>
 
+## Referencial teórico
+
+* Sulaiman, Tamara & Barton, Brent & Blackburn, Thomas. (2006). AgileEVM - Earned Value Management in scrum projects. 7-16. 10.1109/AGILE.2006.15. 
+
 ## Guia de Contribuição
 
 | Data       | Versão | Descrição            | Autor(es)                                |
 | ---------- | ------ | -------------------- | ---------------------------------------- |
 | 08/07/2023 | 1.0    | Criação do documento | [@Peh099](https://github.com/Peh099) |
 | 08/07/2023 | 1.1    | Adicionando introdução e planilha do evm | [@Peh099](https://github.com/Peh099) |
+| 09/07/2023 | 1.2    | Adicionando referencia | [@Peh099](https://github.com/Peh099) |
